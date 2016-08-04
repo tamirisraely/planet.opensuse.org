@@ -1,3 +1,9 @@
+feed 15m http://v-play.net/blog/
+    define_name  V-Play Engine
+    define_lang en
+    define_face tamirisraely
+    define_member 1
+
 feed 15m https://machinery-project.blogspot.com/feeds/posts/default
     define_name Machinery Team
     define_lang en
